@@ -7,7 +7,7 @@ about:
   head: 2e25a62
   archived: false
   latestVersion: v0.6.0
-  collectedAt: 2026-09-04T19:32:46Z
+  collectedAt: 2026-09-04T20:59:10Z
 timeline:
   created: 2014-06-06
   lastCommit: 2026-08-21
@@ -83,6 +83,34 @@ total:
   openIssue: 3
   commit: 2002
 ---
+path: /home/runner/.x-repo/github.com/peco/peco
+collectedAt: 2026-09-04T20:59:10Z
+loc:
+  Go:
+    code: 15117
+    comments: 2016
+    blanks: 2847
+    files: 94
+  Makefile:
+    code: 23
+    comments: 0
+    blanks: 11
+    files: 1
+  Sh:
+    code: 9
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 662
+    blanks: 347
+    files: 2
+total:
+  code: 15265
+  comments: 2679
+  blanks: 3205
+  files: 98
 ---
 date: "2026-08-24"
 repo:
