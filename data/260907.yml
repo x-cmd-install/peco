@@ -5,7 +5,7 @@ about:
   head: 4368da0
   archived: false
   latestVersion: "v0.6.0"
-  collectedAt: 2026-09-07T05:41:17Z
+  collectedAt: 2026-09-07T18:53:49Z
 timeline:
   created: 2014-06-06
   lastCommit: 2026-09-05
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 7909
   watcher: 126
-  fork: 233
+  fork: 234
   release: 49
   contributor: 61
   pullRequest: 618
@@ -82,7 +82,7 @@ total:
   commit: 2008
 ---
 path: /home/runner/.x-repo/github.com/peco/peco
-collectedAt: 2026-09-07T05:41:18Z
+collectedAt: 2026-09-07T18:53:50Z
 loc:
   Go:
     code: 15117
@@ -211,7 +211,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/ci.yml:5'
 ---
 eget:
-  collectedAt: 2026-09-07T05:41:19+00:00
+  collectedAt: 2026-09-07T18:53:50+00:00
   platform:
     darwin/arm64:
       name:  peco_0.6.0_darwin_arm64.zip
