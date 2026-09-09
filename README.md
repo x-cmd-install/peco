@@ -7,7 +7,7 @@ Simplistic interactive filtering tool
 - **Latest release**: `v0.6.0` (2026-02-24)
 - **Last commit**: 2026-09-05
 - **License**: MIT
-- **Stars**: 7908 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
+- **Stars**: 7909 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/peco> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:59:36Z._
+_Last regenerated: 2026-09-09T05:53:00Z._
