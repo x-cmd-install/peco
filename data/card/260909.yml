@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.0"
   latestRelease: "v0.6.0"
   latestPrerelease: "v0.3.0-RC1"
-  collectedAt: 2026-09-09T05:52:55Z
+  collectedAt: 2026-09-09T20:04:37Z
 timeline:
   created: 2014-06-06
   lastCommit: 2026-09-05
@@ -86,7 +86,7 @@ total:
   commit: 2008
 ---
 path: /home/runner/.x-repo/github.com/peco/peco
-collectedAt: 2026-09-09T05:52:56Z
+collectedAt: 2026-09-09T20:04:38Z
 loc:
   Go:
     code: 15117
