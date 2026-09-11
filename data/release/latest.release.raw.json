@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1783701,
       "digest": "sha256:778a4ed7b254294451b5ec1695097e72ce0c70b2e753ee32bfde2158a72c4ed7",
-      "download_count": 878,
+      "download_count": 880,
       "created_at": "2026-02-24T02:48:42Z",
       "updated_at": "2026-02-24T02:48:42Z",
       "browser_download_url": "https://github.com/peco/peco/releases/download/v0.6.0/peco_0.6.0_darwin_arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1908348,
       "digest": "sha256:93d4418ab1261eb723a1f614c2e652c9e912885cff7d969f913c0686459c62e8",
-      "download_count": 3651,
+      "download_count": 3665,
       "created_at": "2026-02-24T02:48:41Z",
       "updated_at": "2026-02-24T02:48:41Z",
       "browser_download_url": "https://github.com/peco/peco/releases/download/v0.6.0/peco_0.6.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1748906,
       "digest": "sha256:035184a97026f79dbc6571a3bf5f74586c523e4485c034322e93820e3f135494",
-      "download_count": 1015,
+      "download_count": 1017,
       "created_at": "2026-02-24T02:48:41Z",
       "updated_at": "2026-02-24T02:48:42Z",
       "browser_download_url": "https://github.com/peco/peco/releases/download/v0.6.0/peco_0.6.0_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2016471,
       "digest": "sha256:5bd9aa4bc02338a6ec8ab1ef212c7b2e54c23e2416254c7681f03e9fa6857863",
-      "download_count": 526,
+      "download_count": 531,
       "created_at": "2026-02-24T02:48:42Z",
       "updated_at": "2026-02-24T02:48:42Z",
       "browser_download_url": "https://github.com/peco/peco/releases/download/v0.6.0/peco_0.6.0_windows_amd64.zip"
