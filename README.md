@@ -4,7 +4,7 @@
 
 Simplistic interactive filtering tool
 
-![peco](https://repo.x-cmd.io/peco.svg)
+[![x-cmd/install — peco Code Quality Monitoring Repo Card](https://repo.x-cmd.io/peco.svg)](https://x-cmd.com/install/peco)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install peco
 
 ## Code insight
 
-Total: **15,149** lines of code across **98** files in the top 5 languages.
+Total: **15,474** lines of code across **99** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,117 | 2,016 | 2,847 | 94 |
+| Go | 15,442 | 2,052 | 2,908 | 95 |
 | Makefile | 23 | 0 | 11 | 1 |
 | Sh | 9 | 1 | 0 | 1 |
-| Markdown | 0 | 662 | 347 | 2 |
+| Markdown | 0 | 697 | 373 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.0` (2026-02-24)
-- **Last commit**: 2026-09-05
+- **Last commit**: 2026-09-19
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 7,910 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
+- **Stars**: 7,908 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 570 · **Open PRs**: 4 · **Closed issues**: 217 · **Open issues**: 3 · **Commits**: 2008
+- **Releases**: 49 · **Merged PRs**: 575 · **Open PRs**: 3 · **Closed issues**: 219 · **Open issues**: 1 · **Commits**: 2019
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 2 | 0 | 0 | 4 |
-| last60d | 2026-07-20 | 0 | 6 | 2 | 0 | 0 | 6 |
-| 90d | 2026-06-20 | 0 | 11 | 3 | 0 | 0 | 11 |
-| last180d | 2026-03-22 | 0 | 26 | 4 | 1 | 3 | 28 |
-| 360d | 2025-09-23 | 1 | 264 | 4 | 5 | 3 | 318 |
-| last720d | 2024-09-28 | 1 | 265 | 4 | 6 | 3 | 593 |
+| 30d | 2026-08-21 | 0 | 8 | 2 | 0 | 0 | 10 |
+| last60d | 2026-07-22 | 0 | 11 | 2 | 0 | 0 | 12 |
+| 90d | 2026-06-22 | 0 | 16 | 2 | 0 | 0 | 17 |
+| last180d | 2026-03-24 | 0 | 31 | 3 | 3 | 1 | 34 |
+| 360d | 2025-09-25 | 1 | 269 | 3 | 7 | 1 | 324 |
+| last720d | 2024-09-30 | 1 | 270 | 3 | 8 | 1 | 604 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for peco lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:02:24Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:01:59Z._
