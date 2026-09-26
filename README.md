@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,909 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
+- **Stars**: 7,910 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 575 · **Open PRs**: 3 · **Closed issues**: 219 · **Open issues**: 1 · **Commits**: 2019
+- **Releases**: 49 · **Merged PRs**: 575 · **Open PRs**: 4 · **Closed issues**: 219 · **Open issues**: 1 · **Commits**: 2019
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 6 | 2 | 0 | 0 | 8 |
-| last60d | 2026-07-27 | 0 | 10 | 2 | 0 | 0 | 12 |
-| 90d | 2026-06-27 | 0 | 14 | 2 | 0 | 0 | 17 |
-| last180d | 2026-03-29 | 0 | 31 | 3 | 3 | 1 | 34 |
-| 360d | 2025-09-30 | 1 | 269 | 3 | 7 | 1 | 324 |
-| last720d | 2024-10-05 | 1 | 270 | 3 | 8 | 1 | 604 |
+| 30d | 2026-08-27 | 0 | 6 | 3 | 0 | 0 | 8 |
+| last60d | 2026-07-28 | 0 | 10 | 3 | 0 | 0 | 12 |
+| 90d | 2026-06-28 | 0 | 14 | 3 | 0 | 0 | 17 |
+| last180d | 2026-03-30 | 0 | 31 | 4 | 3 | 1 | 34 |
+| 360d | 2025-10-01 | 1 | 269 | 4 | 7 | 1 | 324 |
+| last720d | 2024-10-06 | 1 | 270 | 4 | 8 | 1 | 604 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for peco lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:53:39Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:48:09Z._
