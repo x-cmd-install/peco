@@ -1,12 +1,31 @@
-- repo: nix_stable_25_11
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: peco
+  binnames:
+    - peco
   visiblename: peco
-  version: 0.5.11
+  version: 0.5.10
+  origversion: 0.5.10-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - tsu.root@gmail.com
+  categories:
+    - misc
+- repo: chocolatey
+  binname: peco
+  visiblename: Win32 peco
+  version: 0.5.8
   origversion: null
   status: outdated
   summary: Simplistic interactive filtering tool
-  maintainers:
-    - mail@pascal-wittmann.de
+- repo: chromebrew
+  srcname: peco
+  visiblename: peco
+  version: 0.6.0
+  origversion: null
+  status: newest
+  summary: Simplistic interactive filtering tool
   licenses:
     - MIT
 - repo: altsisyphus
@@ -46,22 +65,6 @@
   summary: Simplistic interactive filtering tool.
   maintainers:
     - aksr@aur
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: peco
-  visiblename: Win32 peco
-  version: 0.5.8
-  origversion: null
-  status: outdated
-  summary: Simplistic interactive filtering tool
-- repo: chromebrew
-  srcname: peco
-  visiblename: peco
-  version: 0.6.0
-  origversion: null
-  status: newest
-  summary: Simplistic interactive filtering tool
   licenses:
     - MIT
 - repo: debian_11
@@ -174,20 +177,6 @@
     - tsu.root@gmail.com
   categories:
     - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: peco
-  binnames:
-    - peco
-  visiblename: peco
-  version: 0.5.10
-  origversion: 0.5.10-1
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - tsu.root@gmail.com
-  categories:
-    - misc
 - repo: freebsd
   srcname: textproc/peco
   binname: peco
@@ -217,20 +206,6 @@
     - MIT
   categories:
     - app-shells
-- repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: peco
-  binnames:
-    - peco
-  visiblename: peco
-  version: 0.5.10
-  origversion: 0.5.10-1build1
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - tsu.root@gmail.com
-  categories:
-    - universe/misc
 - repo: gentoo
   srcname: app-shells/peco
   visiblename: app-shells/peco
@@ -364,9 +339,9 @@
   srcname: peco
   binname: peco
   visiblename: peco
-  version: 0.6.0
-  origversion: 0.6.0-1
-  status: newest
+  version: 0.5.11
+  origversion: 0.5.11-1
+  status: outdated
   summary: Simplistic interactive filtering tool
   licenses:
     - MIT
@@ -375,9 +350,9 @@
   srcname: peco
   binname: peco
   visiblename: peco
-  version: 0.6.0
-  origversion: 0.6.0-1
-  status: newest
+  version: 0.5.11
+  origversion: 0.5.11-1
+  status: outdated
   summary: Simplistic interactive filtering tool
   licenses:
     - MIT
@@ -415,6 +390,17 @@
   licenses:
     - MIT
 - repo: nix_stable_25_05
+  srcname: peco
+  visiblename: peco
+  version: 0.5.11
+  origversion: null
+  status: outdated
+  summary: Simplistic interactive filtering tool
+  maintainers:
+    - mail@pascal-wittmann.de
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
   srcname: peco
   visiblename: peco
   version: 0.5.11
@@ -646,6 +632,20 @@
   categories:
     - universe/misc
 - repo: ubuntu_22_04
+  subrepo: jammy-updates/universe
+  srcname: peco
+  binnames:
+    - peco
+  visiblename: peco
+  version: 0.5.10
+  origversion: 0.5.10-1ubuntu0.22.04.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - tsu.root@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
   subrepo: jammy/universe
   srcname: peco
   binnames:
@@ -659,17 +659,17 @@
     - tsu.root@gmail.com
   categories:
     - universe/misc
-- repo: ubuntu_22_04
-  subrepo: jammy-updates/universe
+- repo: ubuntu_24_04
+  subrepo: noble/universe
   srcname: peco
   binnames:
     - peco
   visiblename: peco
   version: 0.5.10
-  origversion: 0.5.10-1ubuntu0.22.04.1
+  origversion: 0.5.10-1build1
   status: outdated
   maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
+    - pkg-go-maintainers@lists.alioth.debian.org
     - tsu.root@gmail.com
   categories:
     - universe/misc
