@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-05 | 0 | 9 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-06 | 0 | 13 | 0 | 0 | 0 | 15 |
-| last180d | 2026-05-08 | 0 | 29 | 1 | 3 | 1 | 32 |
-| 360d | 2025-11-09 | 1 | 271 | 1 | 7 | 1 | 323 |
-| last720d | 2024-11-14 | 1 | 275 | 1 | 8 | 1 | 613 |
+| 30d | 2026-10-06 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-06 | 0 | 9 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-07 | 0 | 13 | 0 | 0 | 0 | 15 |
+| last180d | 2026-05-09 | 0 | 29 | 1 | 3 | 1 | 32 |
+| 360d | 2025-11-10 | 1 | 271 | 1 | 7 | 1 | 323 |
+| last720d | 2024-11-15 | 1 | 275 | 1 | 8 | 1 | 613 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for peco lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:28:19Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:40:14Z._
