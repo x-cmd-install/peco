@@ -36,7 +36,7 @@ Total: **15,474** lines of code across **99** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,907 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
+- **Stars**: 7,908 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **15,474** lines of code across **99** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-12 | 0 | 9 | 0 | 0 | 0 | 10 |
-| 90d | 2026-08-13 | 0 | 14 | 0 | 0 | 0 | 16 |
-| last180d | 2026-05-15 | 0 | 30 | 1 | 3 | 1 | 33 |
-| 360d | 2025-11-16 | 1 | 272 | 1 | 7 | 1 | 324 |
-| last720d | 2024-11-21 | 1 | 276 | 1 | 8 | 1 | 615 |
+| 30d | 2026-10-13 | 0 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-13 | 0 | 9 | 0 | 0 | 0 | 10 |
+| 90d | 2026-08-14 | 0 | 14 | 0 | 0 | 0 | 16 |
+| last180d | 2026-05-16 | 0 | 30 | 1 | 3 | 1 | 33 |
+| 360d | 2025-11-17 | 1 | 272 | 1 | 7 | 1 | 324 |
+| last720d | 2024-11-22 | 1 | 276 | 1 | 8 | 1 | 615 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for peco lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:38:20Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:35:48Z._
