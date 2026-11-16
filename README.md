@@ -31,7 +31,7 @@ Total: **15,474** lines of code across **99** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-02-24)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-15
 - **Assets in release**: 7
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **15,474** lines of code across **99** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 581 · **Open PRs**: 2 · **Closed issues**: 219 · **Open issues**: 1 · **Commits**: 2031
+- **Releases**: 49 · **Merged PRs**: 582 · **Open PRs**: 1 · **Closed issues**: 219 · **Open issues**: 1 · **Commits**: 2032
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 5 | 1 | 0 | 0 | 5 |
-| last60d | 2026-09-16 | 0 | 9 | 1 | 0 | 0 | 10 |
-| 90d | 2026-08-17 | 0 | 14 | 1 | 0 | 0 | 16 |
-| last180d | 2026-05-19 | 0 | 30 | 2 | 3 | 1 | 33 |
-| 360d | 2025-11-20 | 1 | 272 | 2 | 7 | 1 | 324 |
-| last720d | 2024-11-25 | 1 | 276 | 2 | 8 | 1 | 615 |
+| 30d | 2026-10-17 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-17 | 0 | 10 | 0 | 0 | 0 | 6 |
+| 90d | 2026-08-18 | 0 | 15 | 0 | 0 | 0 | 15 |
+| last180d | 2026-05-20 | 0 | 31 | 1 | 3 | 1 | 32 |
+| 360d | 2025-11-21 | 1 | 273 | 1 | 7 | 1 | 325 |
+| last720d | 2024-11-26 | 1 | 277 | 1 | 8 | 1 | 616 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for peco lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:41:43Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:14:46Z._
