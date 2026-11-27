@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,912 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
+- **Stars**: 7,913 · **Forks**: 234 · **Open issues**: 220 · **Contributors**: 61
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-27 | 0 | 6 | 1 | 0 | 0 | 6 |
-| 90d | 2026-08-28 | 0 | 13 | 1 | 0 | 0 | 14 |
-| last180d | 2026-05-30 | 0 | 27 | 2 | 3 | 1 | 30 |
-| 360d | 2025-12-01 | 1 | 273 | 2 | 7 | 1 | 325 |
-| last720d | 2024-12-06 | 1 | 277 | 2 | 8 | 1 | 616 |
+| 30d | 2026-10-28 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-28 | 0 | 6 | 1 | 0 | 0 | 6 |
+| 90d | 2026-08-29 | 0 | 12 | 1 | 0 | 0 | 14 |
+| last180d | 2026-05-31 | 0 | 27 | 2 | 3 | 1 | 30 |
+| 360d | 2025-12-02 | 1 | 273 | 2 | 7 | 1 | 325 |
+| last720d | 2024-12-07 | 1 | 277 | 2 | 8 | 1 | 616 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for peco lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:38:00Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:34:15Z._
